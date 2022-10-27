@@ -1,7 +1,7 @@
 # How-to-Change-a-repository-from-Public-to-Private
 How to Change A repository from Public to Private and vice versa
 
-## one, 
+## -  First:  
 * Navigate to the Repository you Created
 * Click on the Setting button with  ✴️ Settings Icon 
 * Next thing is to, Look for "Check Visibility"
