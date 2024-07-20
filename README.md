@@ -15,4 +15,4 @@ How to Change A repository from Public to Private and vice versa
 
 DONE.
 
-feel free to me for more.
+feel free to follow me for more.
